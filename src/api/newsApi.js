@@ -1,6 +1,6 @@
 import axios from "axios";
 
-const API_KEY = "56c4e472efba496eb98fd9df15aeac95";
+const API_KEY = "b6e66818740f4ba98caf4d23ee310e54";
 const BASE_URL = "https://newsapi.org/v2";
 
 export const getNews = async () => {
